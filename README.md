@@ -1,5 +1,5 @@
 
-<code>printl("Welcome to my github!😆")</code>
+<code>printl("Welcome to my github!😆");</code>
 <br>
 <code>Sou estudante de Egenharia de Software na PUC Minas</code>
 <hr>
