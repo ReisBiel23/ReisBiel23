@@ -1,5 +1,7 @@
 
 <code>printl("Welcome to my github!😆")</code>
+<br>
+<code>Sou estudante de Egenharia de Software na PUC Minas</code>
 <hr>
 <img height="20" alt="GIF" src="https://github.com/AntunesMarcos/AntunesMarcos/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 <div>
